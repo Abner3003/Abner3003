@@ -3,12 +3,14 @@
  - 👺 Atuo com desenvolvimento e sustentação de sistemas há cerca de 11 anos, inicialmente como Dev BackEnd  e durante está  trajetória me apaixonei por Front-End
  - 😁 Atualmente atuo como Front-end Sênior e consultor Angular/React Js.
  - 🐱‍👤Estudando AWS/ Next JS / UX
- 
- </br>
- </br>
-![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
-
- </br>
+  </br>
+  <div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abner3003&show_icons=true&theme=radical" />
+</a>
+ <img width="20%" src="YdBN.gif" /> 
+ </div>
+  </br>
 
 <div>
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -28,10 +30,7 @@
 
  </br>
  </br>
- </br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abner3003&show_icons=true&theme=radical" />
-</a>
+
 
 
 
