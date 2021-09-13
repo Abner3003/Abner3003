@@ -6,9 +6,8 @@
  
  </br>
  </br>
- ![github contribution grid snake animation](https://raw.githubusercontent.com/Abner3003/platane/output/github-contribution-grid-snake.svg)
+![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
  </br>
 
 <div>
