@@ -1,6 +1,6 @@
 ### Fala Pessoal Me chamo Abner Cleim 👋
 
- - 👺 Atuo com desenvolvimento e sustentação de sistemas há cerca de 11 anos, inicialmente como Dev BackEnd  e durante está  trajetória me apaixonei por Front-End
+ - 👺 Atuo com desenvolvimento e sustentação de sistemas há cerca de 13 anos, inicialmente como Dev BackEnd  e durante está  trajetória me apaixonei por Front-End
  - 😁 Atualmente atuo como Front-end Sênior e consultor Angular/React Js.
  - 🐱‍👤Estudando AWS/ Next JS / UX
   </br>
